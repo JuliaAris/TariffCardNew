@@ -1,0 +1,46 @@
+.card {
+  margin: 0 auto;
+
+  width: 50%;
+  text-align: center;
+}
+
+.card_1 {
+  background-color: rgb(0, 255, 204);
+}
+
+.card_2 {
+  background-color: rgb(249, 255, 205);
+}
+
+.card_3 {
+  background-color: rgb(240, 177, 245);
+}
+
+.card_4 {
+  background-color: rgb(166, 164, 233);
+}
+
+.card_active {
+  width: 60%;
+  margin: auto;
+}
+
+header,
+footer,
+div {
+  padding: 20px;
+}
+
+header {
+  border-bottom: 1px solid black;
+}
+
+footer {
+  border-bottom: 1px solid black;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 18px;
+}
